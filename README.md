@@ -1,4 +1,3 @@
-
 # 🚀 Blinkzon Super App
 
 Blinkzon is a modern **Technology Blog & Affiliate Platform** built as a **Progressive Web App (PWA)**.  
